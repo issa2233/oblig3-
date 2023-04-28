@@ -1,4 +1,4 @@
-package com.example.oblig3cinematickets;
+package com.example.oblig32;
 
 public class Tickets {
 

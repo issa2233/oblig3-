@@ -1,4 +1,4 @@
-function buyTicket () {
+function buyTickets () {
     const ticket = {
         movies: $("#movies").val(),
         firstName: $("#firstName").val(),
